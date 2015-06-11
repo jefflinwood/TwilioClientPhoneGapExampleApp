@@ -1,6 +1,8 @@
 # TwilioClientPhoneGapExampleApp
 Example HTML/CSS/Javascript for the Twilio Client for PhoneGap example. 
 
+See https://github.com/jefflinwood/twilio_client_phonegap for the Plugin git repository
+
 # Installation Instructions
 Follow the Twilio Client Plugin for PhoneGap instructions, and then copy the index.html and phoneApp.js files from this example application into your project.
 
